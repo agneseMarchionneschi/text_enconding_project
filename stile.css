@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+	background-color:#c5bbb2;
+    font-family:'Lato', sans-serif;;
+
+}
+ul {
+  list-style: none;
+}
+li{
+    line-height: 2em;
+
+}
+h1 {
+   padding-top: 1em;
+    opacity:0.5;
+    background-color: white;
+    text-align: center;
+    font-family:'Lato', sans-serif;;
+    font-size: 38px;
+    padding-bottom: 1em;
+}
+
+.nota{
+    margin: 50px 53px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.info {
+
+    text-align: center;
+}
+
+h4 {
+    margin: 18px 21px 14px;
+}
+h4.sing{
+    font-size: 1.2em;
+    margin-left: 2.8em;
+    padding-top: 0.4em;
+}
+
+.divisore{
+    margin-left: 30%;
+    padding-top: 3em;
+    padding-bottom: 1em;
+}
+.text{
+    display: inline;
+    position: relative;
+    bottom: 26em;
+    margin-left: 53em;
+}
+#cart1, #cart2{
+    display:none;
+}
+.not{
+    text-align: center;
+}
+img {
+padding-left: 7.2em;
+height: 30%;
+width: 30%;
+border-color: black;
+border-image:  black;
+}
+
+.scegli img:hover {
+	opacity: 0.7;
+}
+
+.btn{
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    right: 4em;
+    bottom: 7em;
+    background-color: #fff;
+    color: #000;
+    font-size: 31px;
+    padding: 6px 21px;
+    border: solid 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+h2 {
+    font-family:'Lato', sans-serif;;
+    font-size: 42px;
+    text-align: center;
+}
+
+.contimg {
+    margin-left: 6%;
+}
+
+.contimg img {
+    text-align: center
+}
+
+.retro {
+    margin-top: -16em;
+    margin-right: 17em;
+    float: right;
+
+    border-radius: 10px;
+    padding-top: 12px;
+    shape-outside: margin-box;
+}
+.fronte{
+  
+}
+.boxed{
+    opacity:0.5;
+    background-color: white;
+    margin:-1em;
+    padding-left: 2em;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.fronte {
+    margin-top: -30em;
+    margin-right: 11em;
+    width: 31%;
+    height: 55px;
+    float:right;
+  
+    border-radius: 10px;
+    padding-top: 12px;
+}
+
+
+.retro b {
+    float: left;
+    margin-left: 36px;
+}
+
+.testo_cartolina{
+    line-height: 17px;
+    text-align: justify;
+    margin-left: 36px;
+}
+
+
+.contenuto_dx{
+    margin-left: 162px;
+    margin-top: 17px;
+}
+
+.contenuto{
+    line-height: 7px;
+    margin-top: 16px;
+}
+
+.francobolli{
+    margin: 40px 15px 28px -30px;
+    width: 100px;
+    border: solid 2px;
+    float: left;
+    padding: 4px;
+}
+
+#hr{
+    float: left;
+    width: 367px;
+    margin: 0px -26px 0px 20px;
+}
+
+
+.invisibile{
+    display: none;
+}
+
+
+
+
